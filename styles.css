@@ -45,8 +45,13 @@ img {
   margin-top: 20px;
   box-shadow: 5px 5px;
   border-radius: 50%;
+  transition: all 1s ease-in;
 }
 
+ img:hover{
+  width: 150px;
+  height: 150px; 
+ }
 
 
 
